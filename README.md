@@ -19,7 +19,6 @@ DISCORD_TOKEN=your_token_here
 ```
 4. start the bot from the therminal:
 ```bash
-npm i
 node index.js
 ```
 
