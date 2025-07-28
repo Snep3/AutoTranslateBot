@@ -28,4 +28,5 @@ node index.js
 Make sure your bot has the following permissions:
 - Read Messages
 - Send Messages
+- View Messages History
 
